@@ -58,3 +58,17 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# MacOS
+._*
+.DS_Store
+
+# 一時ファイル／Temporary
+Assets/test-chara/
+
+# 読み込んだもの／Imported
+VRChat Examples/
+VRChat Examples.meta
+VRCSDK/
+VRCSDK.meta
+VRM/
+VRM.meta
