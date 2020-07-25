@@ -2,7 +2,12 @@
 
 This is the Unity project for VRChat World of Nagaoka Fireworks Virtual Viewing 2020.
 
-If you speak English, please read [English version](./README.en.md) （It have not been written, please wait）.
+If you speak English, please read [English version](./README.en.md).
+
+
+## 告知
+
+2020/08/03（月）18:30から長岡花火バーチャル鑑賞会をやります。
 
 
 ## 概要
@@ -66,19 +71,20 @@ Assets/images以下の画像素材のみを使用する場合はCC-BY-SAライ�
 
 ## 今後の予定
 
-2020/08/03　Ver 1.0.0　鑑賞会用に動画URL置き換え＆告知サムネに変更  
-〜2020/08/07　Ver 1.1.0　バーチャルキャスト対応
+- 2020/08/03　Ver 1.0.0　鑑賞会用に動画URL置き換え＆告知サムネに変更
+- 〜2020/08/07　Ver 1.1.0　バーチャルキャスト対応
 
 
 ## リンク集
 
-- 鑑賞会告知動画：（編集中）
+- 鑑賞会告知動画：[sm37234258](https://www.nicovideo.jp/watch/sm37234258)
+- 鑑賞会告知ブロマガ：[ar1926250](https://ch.nicovideo.jp/skas-web/blomaga/ar1926250)
 - VCI：（未対応）
 - Unity：[https://unity.com/ja](https://unity.com/ja)
 - VRChat：[https://www.vrchat.com/](https://www.vrchat.com/)
 - バーチャルキャスト：[https://virtualcast.jp/](https://virtualcast.jp/)
 - 作者（SKA）関連
-	- Twitter：[@SK_Animation](https://twitter.com/home)
+	- Twitter：[@SK_Animation](https://twitter.com/SK_Animation)
 	- niconico：[user/28511019](https://www.nicovideo.jp/user/28511019)
 	- YouTube：[https://www.youtube.com/c/0150159SK](https://www.youtube.com/c/0150159SK)
 	- ブロマガ：[ar1739328](https://ch.nicovideo.jp/skas-web/blomaga/ar1739328)
@@ -87,7 +93,7 @@ Assets/images以下の画像素材のみを使用する場合はCC-BY-SAライ�
 
 ## 更新履歴
 
-YY/MM/DD
+YYYY/MM/DD
 
-2020/07/22　Ver 0.2.2　Quest仮対応  
-2020/07/22　過去のコミットに再配布禁止素材が含まれていたため開発ブランチを削除　
+- 2020/07/22　Ver 0.2.2　Quest仮対応
+- 2020/07/22　過去のコミットに再配布禁止素材が含まれていたため開発ブランチを削除　
