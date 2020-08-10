@@ -7,7 +7,7 @@ This is the Unity project for VRChat World of Nagaoka Fireworks Virtual Viewing 
 
 ## Notification
 
-Nagaoka Fireworks Virtual Viewing is going to be held on August 3rd, 2020.
+Nagaoka Fireworks Virtual Viewing was held on August 3rd, 2020. Thank you for viewing the world.
 
 
 ## Overview
@@ -95,5 +95,7 @@ If you are only using images under “Assets/images” directory, please conside
 
 YYYY/MM/DD
 
+- 2020/08/03　Ver 1.0.1　The world after the viewing（change video’s URL）
+- 2020/08/03　Ver 1.0.0　The world when the viewing was held (not committed)
 - 2020/07/22　Ver 0.2.2　Experimental support for Quest
 - 2020/07/22　Removed a development branch because it contained redistribution-resistant material in a previous commit.
