@@ -83,6 +83,12 @@ VRCSDK/
 VRCSDK.meta
 VRM/
 VRM.meta
+Effekseer/
+Effekseer.meta
+NAudio/
+NAudio.meta
+VCI/
+VCI.meta
 
 # 再配布禁止素材／no redistribution source
 FireworksViewing/Assets/images/*by*.png
