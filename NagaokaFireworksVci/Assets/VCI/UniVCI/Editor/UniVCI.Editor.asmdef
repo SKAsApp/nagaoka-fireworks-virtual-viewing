@@ -2,10 +2,10 @@
     "name": "UniVCI.Editor",
     "references": [
         "VCI",
-        "Unity.TextMeshPro"
-    ],
-    "optionalUnityReferences": [
-        "TestAssemblies"
+        "Unity.TextMeshPro",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "VCIDepthFirstScheduler"
     ],
     "includePlatforms": [
         "Editor"
@@ -19,5 +19,7 @@
     "autoReferenced": false,
     "defineConstraints": [
         "UNITY_INCLUDE_TESTS"
-    ]
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
