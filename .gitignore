@@ -89,6 +89,10 @@ NAudio/
 NAudio.meta
 VCI/
 VCI.meta
+UniGLTF/
+UniGLTF.meta
+VRMShaders/
+VRMShaders.meta
 
 # 再配布禁止素材／no redistribution source
 FireworksViewing/Assets/images/*by*.png
