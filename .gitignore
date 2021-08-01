@@ -75,6 +75,7 @@ crashlytics-build.properties
 # 一時ファイル／Temporary
 FireworksViewing/Assets/test-chara/
 NagaokaFireworksVci/Assets/test-chara/
+NagaokaFireworksVci/
 
 # 読み込んだもの／Imported
 VRChat Examples/
@@ -93,6 +94,10 @@ UniGLTF/
 UniGLTF.meta
 VRMShaders/
 VRMShaders.meta
+Udon/
+Udon.meta
+SerializedUdonPrograms/
+SerializedUdonPrograms.meta
 
 # 再配布禁止素材／no redistribution source
 FireworksViewing/Assets/images/*by*.png
