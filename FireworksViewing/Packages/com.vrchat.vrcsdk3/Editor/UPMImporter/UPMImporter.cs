@@ -12,9 +12,22 @@ namespace VRC.Udon.Editor {
         // Add packages here to auto-import
         public static string[] requiredPackages =
         {
+            #if UNITY_2019_3_OR_NEWER
+            "com.unity.cinemachine@2.8.0",
+            "com.unity.postprocessing@3.1.1",
+            "com.unity.textmeshpro@2.1.6",
+            "com.unity.modules.androidjni@1.0.0",
+            "com.unity.timeline@1.2.18",
+            "com.unity.ugui@1.0.0",
+            "com.unity.test-framework@1.1.27",
+            "com.unity.package-manager-ui@2.2.0",
+            "com.unity.burst@1.4.11",
+            "com.unity.mathematics@1.2.5",
+            #else
             "com.unity.cinemachine@2.6.1",
             "com.unity.postprocessing@3.0.3",
             "com.unity.textmeshpro@1.5.1",
+#endif
         };
         
         private static ListRequest list;
@@ -43,9 +56,6 @@ namespace VRC.Udon.Editor {
                     importedNewPackage = true;
                 }
             }
-            
-            // if Unity tried to import SDK3 before required packages, it will have old errors showing.
-            if(importedNewPackage) ClearLog();
         }
 
         public static bool Install(string id)
