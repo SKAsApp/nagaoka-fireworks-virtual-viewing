@@ -1,0 +1,14 @@
+【VRChat】
+{fn;Helvetica Neue OTS}- {fn}オンラインの友人とおしゃべりしながら日本三大花火のひとつ
+   長岡花火の映像を見ようというワールドです。
+{fn;Helvetica Neue OTS}- {fn}映像が流れない場合は設定で「{fn;Helvetica Neue OTS}{fs;-1.2}ALLOW UNTRUSTED URLS{fs}{fn}」
+   のチェックを付けた上でもう{fn;Helvetica Neue OTS}{fs;-1.2}1{fs}{fn}度ご入場ください。
+{fn;Helvetica Neue OTS}- {fn}一部回線から映像が不安定になる不具合があります。設定を変
+   更しても映像が流れない場合は再度入場ください。
+{fn;Helvetica Neue OTS}- {fn}おつまみ用の{fn;Helvetica Neue OTS}{fs;-1.2}Unity{fs}{fn}茶豆はこちら⬇{fs;-8}
+
+
+- This is a world where you can watch a video of Nagaoka Fireworks, one of the three major fireworks in Japan, while chatting with your online friends.
+- If the video does not play, please check “ALLOW UNTRUSTED URLS” in the settings and enter again.
+- There is a problem with unstable video from some lines. If the video does not play after changing the settings, please enter again.
+- You can find Unity Edamame for snacks below {fn;ヒラギノ角ゴ ProN W6P}⬇{fn}
