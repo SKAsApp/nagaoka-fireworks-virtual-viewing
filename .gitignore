@@ -95,8 +95,12 @@ VRMShaders/
 VRMShaders.meta
 Udon/
 Udon.meta
+UdonSharp/
+UdonSharp.meta
 SerializedUdonPrograms/
 SerializedUdonPrograms.meta
+XR/
+XR.meta
 
 # 再配布禁止素材／no redistribution source
 FireworksViewing/Assets/images/*by*.png
@@ -104,3 +108,7 @@ FireworksViewing/Assets/images/*by*.jpg
 
 FireworksViewingVci/Assets/images/*by*.png
 FireworksViewingVci/Assets/images/*by*.jpg
+
+# VRCSDK
+VRCDefaultWorldScene/
+VRCDefaultWorldScene.*
